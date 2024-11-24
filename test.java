@@ -1,8 +1,9 @@
 public class test {
 
     public static void main(String[] args) {
-        System.out.println(" hi hwo are you");
+        System.out.println(" hi hwo are you 22 ");
 
     }
 
 }
+
